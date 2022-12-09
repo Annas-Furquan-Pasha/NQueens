@@ -1,10 +1,3 @@
-// N-Queens is a classic Backtracking problem in which we search the position
-// for placing N queens in N x N Board such that the queens cannot kill each other.
-// Queen here refers to the piece in the Game of Chess
-
-// It shows the position of queen as '1' in the board
-// Only the first possible solution is displayed
-
 import java.lang.*;
 import java.util.*;
 
